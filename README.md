@@ -8,7 +8,7 @@ Information Technology student at Industrial University of Ho Chi Minh City. I b
 
 <p>
   <a href="https://avuz.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" /></a>
-  <a href="mailto:anhvu.nguyen1107@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anhvu.nguyen1107@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-anh-v%C5%A9-28a605300"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
 </p>
 
