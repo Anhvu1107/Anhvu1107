@@ -17,27 +17,6 @@
 
 ---
 
-## Build Focus
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>Full-stack commerce</h3>
-      <p>Product catalog, search/filter, cart, checkout, orders, wishlist, admin dashboard, analytics, i18n, uploads, email, payments, and deployment.</p>
-    </td>
-    <td width="33%">
-      <h3>AI and RAG systems</h3>
-      <p>Multi-tenant chatbot backends, provider settings, vector search, PDF ingestion, Gemini Vision, embeddings, streaming chat, and bot widgets.</p>
-    </td>
-    <td width="33%">
-      <h3>Systems and labs</h3>
-      <p>Agent skill bundles, Spring Boot APIs, Java RMI/TCP distributed systems, Puppeteer scraping, statistics notebooks, IoT flows, and networking labs.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Tech Arsenal
 
 <h3 align="center">Languages</h3>
