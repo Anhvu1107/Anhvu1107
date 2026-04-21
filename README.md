@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=ffffff" alt="CSS3" />
 </p>
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">Frontend & UI</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&amp;logo=vuedotjs&amp;logoColor=111111" alt="Vue 3" />
@@ -41,17 +41,25 @@
   <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=111111" alt="React 19" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=ffffff" alt="Vite" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=ffffff" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Web_Components-29ABE2?style=flat-square&amp;logo=webcomponentsdotorg&amp;logoColor=ffffff" alt="Web Components" />
+  <img src="https://img.shields.io/badge/Shadow_DOM-3B82F6?style=flat-square&amp;logo=javascript&amp;logoColor=ffffff" alt="Shadow DOM" />
+</p>
+
+<h3 align="center">Frontend State, UX & Visualization</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Pinia-F7D336?style=flat-square&amp;logo=vuedotjs&amp;logoColor=111111" alt="Pinia" />
   <img src="https://img.shields.io/badge/Zustand-111111?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="Zustand" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&amp;logo=framer&amp;logoColor=ffffff" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Web_Components-29ABE2?style=flat-square&amp;logo=webcomponentsdotorg&amp;logoColor=ffffff" alt="Web Components" />
-  <img src="https://img.shields.io/badge/Shadow_DOM-3B82F6?style=flat-square&amp;logo=javascript&amp;logoColor=ffffff" alt="Shadow DOM" />
+  <img src="https://img.shields.io/badge/React_Dropzone-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=111111" alt="React Dropzone" />
+  <img src="https://img.shields.io/badge/Lucide_React-111111?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="Lucide React" />
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&amp;logo=chartdotjs&amp;logoColor=ffffff" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/vue--chartjs-4FC08D?style=flat-square&amp;logo=vuedotjs&amp;logoColor=111111" alt="vue-chartjs" />
   <img src="https://img.shields.io/badge/i18n-26A69A?style=flat-square&amp;logo=googletranslate&amp;logoColor=ffffff" alt="i18n" />
   <img src="https://img.shields.io/badge/Responsive_UI-0EA5E9?style=flat-square&amp;logo=css3&amp;logoColor=ffffff" alt="Responsive UI" />
 </p>
 
-<h3 align="center">Backend, Databases and APIs</h3>
+<h3 align="center">Backend & APIs</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=ffffff" alt="Node.js" />
@@ -65,15 +73,19 @@
   <img src="https://img.shields.io/badge/bcrypt-444444?style=flat-square&amp;logo=keycdn&amp;logoColor=ffffff" alt="bcrypt" />
   <img src="https://img.shields.io/badge/RBAC-1F2937?style=flat-square&amp;logo=auth0&amp;logoColor=ffffff" alt="RBAC" />
   <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&amp;logo=swagger&amp;logoColor=111111" alt="Swagger/OpenAPI" />
+</p>
+
+<h3 align="center">Databases, ORMs & Storage</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=ffffff" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&amp;logo=sequelize&amp;logoColor=ffffff" alt="Sequelize" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&amp;logo=sqlalchemy&amp;logoColor=ffffff" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=ffffff" alt="Redis" />
-  <img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=flat-square&amp;logo=databricks&amp;logoColor=ffffff" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/Vector_DB-9333EA?style=flat-square&amp;logo=semanticweb&amp;logoColor=ffffff" alt="Vector DB" />
+  <img src="https://img.shields.io/badge/JSON_Storage-000000?style=flat-square&amp;logo=json&amp;logoColor=ffffff" alt="JSON Storage" />
 </p>
 
-<h3 align="center">AI, Data and RAG</h3>
+<h3 align="center">AI, LLM & RAG</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=ffffff" alt="OpenAI" />
@@ -83,8 +95,15 @@
   <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square&amp;logo=readthedocs&amp;logoColor=ffffff" alt="RAG" />
   <img src="https://img.shields.io/badge/Embeddings-0EA5E9?style=flat-square&amp;logo=tensorflow&amp;logoColor=ffffff" alt="Embeddings" />
   <img src="https://img.shields.io/badge/sentence--transformers-FF6F00?style=flat-square&amp;logo=huggingface&amp;logoColor=ffffff" alt="sentence-transformers" />
+  <img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=flat-square&amp;logo=databricks&amp;logoColor=ffffff" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Vector_DB-9333EA?style=flat-square&amp;logo=semanticweb&amp;logoColor=ffffff" alt="Vector DB" />
   <img src="https://img.shields.io/badge/PDF_Parsing-B30B00?style=flat-square&amp;logo=adobeacrobatreader&amp;logoColor=ffffff" alt="PDF Parsing" />
   <img src="https://img.shields.io/badge/Streaming_Chat-2563EB?style=flat-square&amp;logo=socketdotio&amp;logoColor=ffffff" alt="Streaming Chat" />
+</p>
+
+<h3 align="center">Data Science & Computer Vision</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=ffffff" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=ffffff" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=ffffff" alt="scikit-learn" />
@@ -94,7 +113,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=ffffff" alt="Jupyter" />
 </p>
 
-<h3 align="center">Product, DevOps, Automation and Labs</h3>
+<h3 align="center">E-commerce & Third-party Integrations</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/E--commerce-0F172A?style=flat-square&amp;logo=shopify&amp;logoColor=ffffff" alt="E-commerce" />
@@ -106,24 +125,39 @@
   <img src="https://img.shields.io/badge/Nodemailer-22B573?style=flat-square&amp;logo=gmail&amp;logoColor=ffffff" alt="Nodemailer" />
   <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&amp;logo=resend&amp;logoColor=ffffff" alt="Resend" />
   <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&amp;logo=google&amp;logoColor=ffffff" alt="Google OAuth" />
+  <img src="https://img.shields.io/badge/Google_Translate-4285F4?style=flat-square&amp;logo=googletranslate&amp;logoColor=ffffff" alt="Google Translate" />
+  <img src="https://img.shields.io/badge/FormSubmit-111111?style=flat-square&amp;logo=minutemailer&amp;logoColor=ffffff" alt="FormSubmit" />
+</p>
+
+<h3 align="center">DevOps, Deployment & QA</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=ffffff" alt="Docker" />
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=ffffff" alt="Docker Compose" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&amp;logo=nginx&amp;logoColor=ffffff" alt="Nginx" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=ffffff" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=ffffff" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&amp;logo=apachemaven&amp;logoColor=ffffff" alt="Maven" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&amp;logo=netlify&amp;logoColor=111111" alt="Netlify" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=ffffff" alt="Vercel" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=ffffff" alt="Postman" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&amp;logo=playwright&amp;logoColor=ffffff" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&amp;logo=puppeteer&amp;logoColor=111111" alt="Puppeteer" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&amp;logo=powershell&amp;logoColor=ffffff" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Agent_Skills-111827?style=flat-square&amp;logo=openai&amp;logoColor=ffffff" alt="Agent Skills" />
-  <img src="https://img.shields.io/badge/Validators-059669?style=flat-square&amp;logo=checkmarx&amp;logoColor=ffffff" alt="Validators" />
-  <img src="https://img.shields.io/badge/Java_RMI%2FTCP-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=ffffff" alt="Java RMI/TCP" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&amp;logo=unity&amp;logoColor=ffffff" alt="Unity" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&amp;logo=eslint&amp;logoColor=ffffff" alt="ESLint" />
 </p>
 
-<h3 align="center">IoT and Networking</h3>
+<h3 align="center">Automation, Scraping & Agent Tooling</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&amp;logo=puppeteer&amp;logoColor=111111" alt="Puppeteer" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat-square&amp;logo=python&amp;logoColor=ffffff" alt="BeautifulSoup" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&amp;logo=powershell&amp;logoColor=ffffff" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Agent_Skills-111827?style=flat-square&amp;logo=openai&amp;logoColor=ffffff" alt="Agent Skills" />
+  <img src="https://img.shields.io/badge/Skill_Catalogs-374151?style=flat-square&amp;logo=readthedocs&amp;logoColor=ffffff" alt="Skill Catalogs" />
+  <img src="https://img.shields.io/badge/Validation_Scripts-059669?style=flat-square&amp;logo=checkmarx&amp;logoColor=ffffff" alt="Validation Scripts" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&amp;logo=markdown&amp;logoColor=ffffff" alt="Markdown" />
+</p>
+
+<h3 align="center">IoT & Embedded</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&amp;logo=espressif&amp;logoColor=ffffff" alt="ESP32" />
@@ -131,12 +165,26 @@
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&amp;logo=raspberrypi&amp;logoColor=ffffff" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&amp;logo=mqtt&amp;logoColor=ffffff" alt="MQTT" />
   <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&amp;logo=nodered&amp;logoColor=ffffff" alt="Node-RED" />
+</p>
+
+<h3 align="center">Networking</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/VLAN-1D4ED8?style=flat-square&amp;logo=cisco&amp;logoColor=ffffff" alt="VLAN" />
   <img src="https://img.shields.io/badge/OSPF-2563EB?style=flat-square&amp;logo=cisco&amp;logoColor=ffffff" alt="OSPF" />
   <img src="https://img.shields.io/badge/NAT-0F766E?style=flat-square&amp;logo=cisco&amp;logoColor=ffffff" alt="NAT" />
   <img src="https://img.shields.io/badge/ACLs-991B1B?style=flat-square&amp;logo=cisco&amp;logoColor=ffffff" alt="ACLs" />
   <img src="https://img.shields.io/badge/DHCP-334155?style=flat-square&amp;logo=cisco&amp;logoColor=ffffff" alt="DHCP" />
 </p>
+
+<h3 align="center">Distributed Systems & Game/3D</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_RMI%2FTCP-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=ffffff" alt="Java RMI/TCP" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&amp;logo=unity&amp;logoColor=ffffff" alt="Unity" />
+</p>
+
+---
 
 ## Experience
 
