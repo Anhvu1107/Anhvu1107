@@ -117,10 +117,6 @@ Information Technology student at Industrial University of Ho Chi Minh City. I b
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anhvu1107&show_icons=true&hide_title=true&include_all_commits=true&theme=github_dark_dimmed" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhvu1107&layout=compact&theme=github_dark_dimmed" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Anhvu1107&theme=github-dark-blue" alt="GitHub streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Anhvu1107&theme=github-dark-blue" alt="GitHub streak" />
 </p>
