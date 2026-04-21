@@ -6,7 +6,7 @@
 
 Information Technology student at Industrial University of Ho Chi Minh City. I build practical web apps, AI assistants, e-commerce systems, IoT prototypes, and networking labs. Currently looking for an Internship/Junior Developer role.
 
-[Portfolio](https://avuz.unaux.com) - [Email](mailto:anhvu.nguyen1107@gmail.com) - [LinkedIn](https://www.linkedin.com/in/nguy%E1%BB%85n-anh-v%C5%A9-28a605300) - [GitHub](https://github.com/Anhvu1107)
+[Portfolio](https://avuz.netlify.app/) - [Email](mailto:anhvu.nguyen1107@gmail.com) - [LinkedIn](https://www.linkedin.com/in/nguy%E1%BB%85n-anh-v%C5%A9-28a605300) - [GitHub](https://github.com/Anhvu1107)
 
 </div>
 
