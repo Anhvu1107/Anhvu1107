@@ -119,6 +119,8 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&amp;logo=powershell&amp;logoColor=ffffff" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Agent_Skills-111827?style=flat-square&amp;logo=openai&amp;logoColor=ffffff" alt="Agent Skills" />
   <img src="https://img.shields.io/badge/Validators-059669?style=flat-square&amp;logo=checkmarx&amp;logoColor=ffffff" alt="Validators" />
+  <img src="https://img.shields.io/badge/Java_RMI%2FTCP-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=ffffff" alt="Java RMI/TCP" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&amp;logo=unity&amp;logoColor=ffffff" alt="Unity" />
 </p>
 
 <h3 align="center">IoT and Networking</h3>
@@ -134,8 +136,6 @@
   <img src="https://img.shields.io/badge/NAT-0F766E?style=flat-square&amp;logo=cisco&amp;logoColor=ffffff" alt="NAT" />
   <img src="https://img.shields.io/badge/ACLs-991B1B?style=flat-square&amp;logo=cisco&amp;logoColor=ffffff" alt="ACLs" />
   <img src="https://img.shields.io/badge/DHCP-334155?style=flat-square&amp;logo=cisco&amp;logoColor=ffffff" alt="DHCP" />
-  <img src="https://img.shields.io/badge/Java_RMI%2FTCP-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=ffffff" alt="Java RMI/TCP" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&amp;logo=unity&amp;logoColor=ffffff" alt="Unity" />
 </p>
 
 ## Experience
