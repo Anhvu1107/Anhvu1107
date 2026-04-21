@@ -120,3 +120,11 @@ Information Technology student at Industrial University of Ho Chi Minh City. I b
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhvu1107&layout=compact&theme=github_dark_dimmed" alt="Top languages" />
   <img height="165" src="https://streak-stats.demolab.com?user=Anhvu1107&theme=github-dark-blue" alt="GitHub streak" />
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anhvu1107/Anhvu1107/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anhvu1107/Anhvu1107/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Anhvu1107/Anhvu1107/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
