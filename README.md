@@ -159,59 +159,6 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&amp;logo=unity&amp;logoColor=ffffff" alt="Unity" />
 </p>
 
----
-
-## Project Highlights
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Anhvu1107/KLTN">AURA ARCHIVE / KLTN</a></h3>
-      <p>Luxury resell fashion platform with customer shopping flows, admin operations, real-time chat, i18n, payments, uploads, email, and AI stylist features.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Nuxt_3-00DC82?style=flat-square&amp;logo=nuxtdotjs&amp;logoColor=111111" alt="Nuxt 3" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=express&amp;logoColor=ffffff" alt="Express" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=ffffff" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=ffffff" alt="Docker" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Anhvu1107/chat-bot">chat-bot</a></h3>
-      <p>Multi-tenant chatbot backend with provider settings, RAG ingestion, PDF parsing, file upload, ChromaDB retrieval, JWT auth, and demo/admin pages.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=ffffff" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=ffffff" alt="OpenAI" />
-        <img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=flat-square&amp;logo=databricks&amp;logoColor=ffffff" alt="ChromaDB" />
-        <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square&amp;logo=readthedocs&amp;logoColor=ffffff" alt="RAG" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Anhvu1107/fashion-ai">fashion-ai</a></h3>
-      <p>AI fashion assistant with Gemini Vision, drag-and-drop image upload, visual analysis, search/history views, animated UI, and client-side state.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=111111" alt="React 19" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=ffffff" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Gemini_Vision-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=ffffff" alt="Gemini Vision" />
-        <img src="https://img.shields.io/badge/Zustand-111111?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="Zustand" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Agent skill systems</h3>
-      <p>Merged and hardened large agent skill bundles with catalogs, search indexes, validators, workflow routing, release reports, and operating manuals.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Agent_Skills-111827?style=flat-square&amp;logo=openai&amp;logoColor=ffffff" alt="Agent Skills" />
-        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&amp;logo=markdown&amp;logoColor=ffffff" alt="Markdown" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=ffffff" alt="Python" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=ffffff" alt="GitHub Actions" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Experience
 
 | Role | Period | Highlights |
