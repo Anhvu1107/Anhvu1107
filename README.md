@@ -36,15 +36,32 @@ Information Technology student at Industrial University of Ho Chi Minh City. I b
 
 ## Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/Anhvu1107/KLTN"><img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Anhvu1107&repo=KLTN&theme=github_dark_dimmed&hide_border=true" alt="KLTN repository card" /></a>
-  <a href="https://github.com/Anhvu1107/fashion-ai"><img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Anhvu1107&repo=fashion-ai&theme=github_dark_dimmed&hide_border=true" alt="fashion-ai repository card" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Anhvu1107/chat-bot"><img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Anhvu1107&repo=chat-bot&theme=github_dark_dimmed&hide_border=true" alt="chat-bot repository card" /></a>
-  <a href="https://github.com/Anhvu1107/portfolio"><img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Anhvu1107&repo=portfolio&theme=github_dark_dimmed&hide_border=true" alt="portfolio repository card" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Anhvu1107/KLTN">AURA ARCHIVE / KLTN</a></h3>
+      <p>Luxury resell fashion e-commerce platform with admin dashboard, AI stylist, auth, orders, i18n, and Docker deployment.</p>
+      <p><code>Nuxt 3</code> <code>Vue 3</code> <code>Express</code> <code>PostgreSQL</code> <code>FastAPI</code> <code>Docker</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Anhvu1107/fashion-ai">fashion-ai</a></h3>
+      <p>AI fashion assistant with image upload, Gemini Vision analysis, visual search flow, animated UI, and client-side state management.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Gemini</code> <code>Zustand</code> <code>Tailwind</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Anhvu1107/chat-bot">chat-bot</a></h3>
+      <p>Multi-tenant chatbot backend with RAG ingestion, PDF parsing, bot settings, authentication, and OpenAI/OpenRouter integration.</p>
+      <p><code>FastAPI</code> <code>OpenAI</code> <code>ChromaDB</code> <code>RAG</code> <code>JWT</code> <code>Python</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Anhvu1107/portfolio">portfolio</a></h3>
+      <p>Bilingual portfolio/CV site with responsive UI, dark/light theme, language switcher, contact flow, and embedded chatbot.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>i18n</code> <code>Netlify</code></p>
+    </td>
+  </tr>
+</table>
 
 ## Project Evidence
 
