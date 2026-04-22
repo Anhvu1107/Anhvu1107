@@ -207,12 +207,4 @@
   <img width="92%" src="https://streak-stats.demolab.com?user=Anhvu1107&amp;theme=github-dark-blue&amp;hide_border=true&amp;border_radius=8&amp;date_format=j%2Fn%2FY" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anhvu1107/Anhvu1107/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anhvu1107/Anhvu1107/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Anhvu1107/Anhvu1107/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:7C3AED,50:1D4ED8,100:050816" alt="Footer wave" />
